@@ -1,2 +1,2 @@
-# Teste Git
-Repositorio de estudo do ciclo basico do Git e GitHub.
+# Comandos apresndidos
+git init, add, commit, push, pull, branch, merge
